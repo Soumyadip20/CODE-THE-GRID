@@ -1,5 +1,5 @@
 # F1 Race Prediction Simulator
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmehmetkahya0%2Ff1-race-prediction&label=VISITORS&labelColor=%23333333&countColor=%23f34324&style=flat)
+
 
 
 
@@ -69,11 +69,6 @@ The simulation models numerous aspects of F1 racing:
 
 ### Installation
 
-1. Clone this repository:
-```bash
-git clone https://github.com/mehmetkahya0/f1-prediction.git
-cd f1-prediction
-```
 
 2. Install dependencies:
 ```bash
@@ -228,15 +223,7 @@ This project is released under the MIT License - see the LICENSE file for detail
 - The open-source Python community for amazing libraries
 - Coffee, for making this project possible
 
-## 📬 Contact
 
-For any questions, suggestions, or feedback, feel free to reach out:
-
-- **Author**: Mehmet Kahya  
-- **Email**: mehmetkahyakas5@gmail.com 
-- **GitHub**: [mehmetkahya0](https://github.com/mehmetkahya0)  
-- 
-We'd love to hear from you!
 
 ---
 
